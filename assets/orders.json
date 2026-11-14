@@ -1,0 +1,14 @@
+[
+  {
+    "id": 101,
+    "product": "Ноутбук ASUS",
+    "quantity": 1,
+    "total": 25000
+  },
+  {
+    "id": 102,
+    "product": "Мишка Logitech",
+    "quantity": 2,
+    "total": 3000
+  }
+]
